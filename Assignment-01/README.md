@@ -2,6 +2,4 @@
 
 Assignment-01_deliver.ipynb
 
-train.txt.gz
 
-train.txt
